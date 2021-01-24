@@ -1,7 +1,7 @@
 {
   "name": "@orange4glace/listView",
   "version": "1.0.0",
-  "description": "",
+  "description": "VSCode codebase based listView UI Component",
   "homepage": "",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
